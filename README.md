@@ -6,7 +6,7 @@ Descreva brevemente o seu projeto. Pode incluir imagens, diagramas ou links para
 
 ## 👥 Integrantes
 
-- Nome 1 - RA: XXXXXXXX
+- Felipe Pereira de Pádua - RA: 804774
 - Nome 2 - RA: XXXXXXXX
 - Nome 3 - RA: XXXXXXXX
 
