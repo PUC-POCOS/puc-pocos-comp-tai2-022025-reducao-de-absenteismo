@@ -7,7 +7,7 @@ Descreva brevemente o seu projeto. Pode incluir imagens, diagramas ou links para
 ## 👥 Integrantes
 
 - Felipe Pereira de Pádua - RA: 804774
-- Luiz Octavio Jacinto de Freitas- RA: 1497429
+- Luiz Octavio Jacinto de Freitas - RA: 1497429
 - Nome 3 - RA: XXXXXXXX
 
 ---
